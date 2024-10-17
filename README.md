@@ -11,7 +11,7 @@ python analyze-dns-pcap.py my.pcap 192.168.1.133
  ``` 
 <img src="https://raw.githubusercontent.com/dokDork/DNSWatchdog/refs/heads/main/images/01.jpg" width="250" height="250">  
 and this is a possible result:
-<img src="https://raw.githubusercontent.com/dokDork/DNSWatchdog/refs/heads/main/images/01.jpg" width="250" height="250">  
+<img src="https://raw.githubusercontent.com/dokDork/DNSWatchdog/refs/heads/main/images/02.jpg" width="250" height="250">  
 
 ## Command-line parameters
 ```
@@ -33,5 +33,5 @@ cd /opt
 pip install pyshark
 ```
 ```
-git 
+git clone https://github.com/dokDork/DNSWatchdog.git
 ```
